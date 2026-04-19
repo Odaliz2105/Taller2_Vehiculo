@@ -1,6 +1,3 @@
-Va, este ya es un proyecto más “completo” porque tienes capas (`controller`, `dao`, `modelo`, etc.), así que el README debe reflejar una **arquitectura más organizada**, no solo hilos.
-
-Te lo dejo listo para copiar 👇
 
 ---
 
